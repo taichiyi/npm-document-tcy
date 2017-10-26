@@ -69,6 +69,11 @@ $ npm install -g gulp
 $ npm install -save gulp
 ```
 
+本地安装`gulp`模块, 并把依赖关系写入package.json的devDependencies属性里
+```
+$ npm install --save-dev gulp
+```
+
 
 ## uninstall
 
